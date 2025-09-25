@@ -28,3 +28,8 @@ Unity에서 시선 응시 시간 측정 (2초 기준)
 관심 여부와 응시 시간 데이터를 기반으로 로지스틱 회귀 모델 학습
 
 사용자별 개인화된 응시 임계값(threshold) 계산
+<img width="864" height="544" alt="스크린샷 2025-09-25 오후 9 24 02" src="https://github.com/user-attachments/assets/612e9cd5-e156-4bfe-8b27-a975e041b511" />
+
+
+
+
